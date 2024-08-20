@@ -1,0 +1,4 @@
+admin@fusiontech.ltd[ENTER]
+admin123[ENTER]
+Hello[SPACE]
+FusionTech[ENTER]
