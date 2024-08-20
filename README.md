@@ -27,6 +27,6 @@ The keylogger works by monitoring keyboard input on the system where it is insta
 - Python packages: `pynput` (you can install it via `pip install pynput`)
 
 ### Running the Keylogger
-1. Clone the repository to your local machine:
+Clone the repository to your local machine:
    ```bash
    git clone https://github.com/Siddharth-31/simple-keylogger
